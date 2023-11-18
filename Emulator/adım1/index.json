@@ -1,0 +1,24 @@
+{
+    "scenario": {
+      "steps": [
+        {
+          "text": "tr_step1.md" // 1. Adım
+        }
+        {
+          "text": "tr_step2.md" // 2. Adım
+        }
+      ],
+      "intro": {
+        "text": "tr_intro.md" // Dersin içeriği ile ilgili girizgâh yapılan dosya
+      },
+      "finish": {
+        "text": "tr_finish.md" // Dersin sonunda elde edilen yetkinliklerin anlatıldığı dosya
+      }
+    },
+    "environment": {
+      "uilayout": "editor-terminal"
+    },
+    "backend": {
+      "imageid": "alpine" // Kullanılacak Image Adı
+    }
+  }
