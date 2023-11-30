@@ -1,4 +1,4 @@
-# THE MSKN 🚀
+# THE MSKN - MİSKİN🚀
 ## _Mastering Simplicity, Keying Navigations_
 ## Welcome to MSKN v1.0!
 
